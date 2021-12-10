@@ -43,7 +43,7 @@
         <!-- CGLIB代理依赖包版本 -->
         <cglib.version>3.2.5</cglib.version>
         <!-- log4j2日志文件管理包版本 -->
-        <log4j2.version>2.9.1</log4j2.version>
+        <log4j2.version>2.15.0</log4j2.version>
         <slf4j.version>1.7.25</slf4j.version>
         <!-- JSON格式化依赖包版本号 -->
         <fastjson.version>1.2.47</fastjson.version>
