@@ -61,7 +61,7 @@
         <!--jedis版本号-->
         <jedis.version>2.9.0</jedis.version>
         <!-- POI版本号 -->
-        <poi.version>3.17</poi.version>
+        <poi.version>5.2.1</poi.version>
         <!-- activemq版本号 -->
         <activemq.version>5.15.8</activemq.version>
     </properties>
