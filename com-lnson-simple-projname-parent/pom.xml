@@ -57,7 +57,7 @@
         <!-- 当当网Config Toolkit版本号 -->
         <config.toolkit.version>3.3.0-RELEASE</config.toolkit.version>
         <!--dubbo版本号-->
-        <dubbo.version>2.6.2</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <!--jedis版本号-->
         <jedis.version>2.9.0</jedis.version>
         <!-- POI版本号 -->
